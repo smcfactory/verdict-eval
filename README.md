@@ -7,7 +7,7 @@ No binaries, no telemetry, no external dependencies. Just Markdown skill definit
 ## Install
 
 ```bash
-git clone https://github.com/0xsmcai/factory-skills.git ~/.claude/skills/factory
+git clone https://github.com/verdict-partnerai/factory-skills.git ~/.claude/skills/factory
 ```
 
 Each agent's CLAUDE.md or settings should reference skills at:
@@ -28,7 +28,6 @@ factory-skills/
 ├── README.md
 ├── CLAUDE.md
 ├── PRINCIPLES.md
-├── LICENSE
 ├── verdict-eval/
 │   └── SKILL.md
 └── (future skills as sibling directories)
